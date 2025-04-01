@@ -14,6 +14,7 @@ which is included as part of this source code package.
 #define IMU_PROCESSING_H
 
 #include <Eigen/Eigen>
+#include <fstream>
 #include "common_lib.h"
 #include <condition_variable>
 #include <nav_msgs/Odometry.h>
